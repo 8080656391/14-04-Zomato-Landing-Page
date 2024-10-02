@@ -128,7 +128,9 @@
  .offer_container{
     display: flex;
     justify-content: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
  }
  .offer_container .we_offer_card img{
     width: 320px;
